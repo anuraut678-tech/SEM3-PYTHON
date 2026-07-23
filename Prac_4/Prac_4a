@@ -1,0 +1,12 @@
+#4a. Python code to create an Array
+
+print("S106 Ananya raut")
+
+import numpy as np
+
+arr = np.array([31, 24, 45, 32, 57])
+
+print("NumPy Array:")
+print(arr)
+
+
