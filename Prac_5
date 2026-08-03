@@ -1,0 +1,8 @@
+import pandas as pd
+
+# Read CSV dataset
+df = pd.read_csv("StressLevelDataset.csv")
+
+# Display DataFrame
+print("DataFrame:")
+print(df)
